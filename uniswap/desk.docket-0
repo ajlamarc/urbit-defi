@@ -1,0 +1,10 @@
+:~  title+'Uniswap'
+    info+'Self-hosted uniswap frontend.'
+    color+0xff.ffff
+    image+'https://cryptologos.cc/logos/uniswap-uni-logo.svg'
+    base+'uniswap'
+    glob-http+['https://holium-app-globs.nyc3.cdn.digitaloceanspaces.com/uniswap/uniswap-glob.glob' 0v7.6lbpi.72ri0.0da16.q9iro.i5lsa]
+    version+[0 1 0]
+    website+'https://uniswap.org/'
+    license+'MIT'
+==

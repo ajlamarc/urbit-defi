@@ -1,0 +1,10 @@
+:~  title+'Osmosis'
+    info+'Interchain liquidity lab.'
+    color+0x18.0d39
+    version+[0 1 0]
+    website+'https://osmosis.zone/'
+    license+'MIT'
+    image+'https://holium-app-globs.nyc3.cdn.digitaloceanspaces.com/osmosis/osmosis-logo-wc.png'
+    glob-http+['https://holium-app-globs.nyc3.cdn.digitaloceanspaces.com/osmosis/osmosis-glob.glob' 0v1.shck1.oilg4.nj4k8.s75ks.97hes]
+    base+'osmosis'
+==
