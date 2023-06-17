@@ -3,7 +3,7 @@
     color+0xff.ffff
     image+'https://cryptologos.cc/logos/uniswap-uni-logo.svg'
     base+'uniswap'
-    glob-http+['https://holium-app-globs.nyc3.cdn.digitaloceanspaces.com/uniswap/uniswap-glob.glob' 0v7.6lbpi.72ri0.0da16.q9iro.i5lsa]
+    glob-http+['https://holium-app-globs.nyc3.cdn.digitaloceanspaces.com/uniswap/glob-0v5.vnh11.4nkl5.b5vf6.dsbt6.s1j2o.glob' 0v5.vnh11.4nkl5.b5vf6.dsbt6.s1j2o]
     version+[0 1 0]
     website+'https://uniswap.org/'
     license+'MIT'
