@@ -7,5 +7,5 @@
   license+'MIT'
   image+'https://dydx-v4-urbit.s3.amazonaws.com/dydx-logo.jpg'
   base+'dydx-v4'
-  glob-http+['https://dydx-v4-urbit.s3.amazonaws.com/dydx-v4-urbit.glob' 0v7.chgip.a9vau.kc5nh.pcau5.vmh45]
+  glob-http+['https://dydx-v4-urbit.s3.amazonaws.com/dydx-v4-urbit.glob' 0v1.i12r6.76a6i.qcvv1.t8he9.b22r1]
 ==
