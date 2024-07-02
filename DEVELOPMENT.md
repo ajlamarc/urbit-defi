@@ -69,6 +69,7 @@ v4-web $: cp -r dist ../zod/dydx-v4
 ### Update dYdX frontend (Web / Abacus version)
 
 1. Merge the upstream changes into the local branch for both repositories and handle any merge conflicts.
+   1. If `env.json` or other public JSON files were changed and you need the true values, open the file from the official dYdX site. `env.json` is available at https://dydx.trade/configs/v1/env.json
 2. Look in the merged changes (view between commits on Github) for any new assets added, renamed, etc. in the `public` folder of `v4-web` and write those down.
 3. In both `v4-abacus` and `v4-web`, search for references to those new assets. If they point to an absolute path such as `/currencies/aave.png`, we will need to replace (prepend) `/apps/dydx-v4` to their path, since that is the location they will be available on the Urbit hosted site.
 4. Recommended to run `pnpm dev` in `v4-web` to verify on the locally running site that the assets render as expected (check the console for any errors).
