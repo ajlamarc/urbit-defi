@@ -37,6 +37,7 @@ git clone https://github.com/ajlamarc/urbit-defi.git
 v4-web $: rm -r ../zod/dydx-v4/dist
 # copy to Urbit folders
 v4-web $: cp -r dist ../zod/dydx-v4
+# NOTE: also you must copy the lib, mar, and sur folders from this repository into zod's dydx-v4 folder.
 ```
 
 12. In the Urbit prompt, commit these changes, and compile the dist folder to a single `.glob` file that Urbit expects:

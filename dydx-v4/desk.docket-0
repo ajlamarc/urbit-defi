@@ -2,10 +2,10 @@
   title+'dYdX v4'
   info+'Trading, decentralized (and self-hosted)'
   color+0x69.66fb
-  version+[1 3 12]
+  version+[1 4 12]
   website+'https://dydx.exchange'
   license+'MIT'
   image+'https://dydx-v4-urbit.s3.amazonaws.com/dydx-logo.jpg'
   base+'dydx-v4'
-  glob-http+['https://dydx-v4-urbit.s3.amazonaws.com/dydx-v4-urbit.glob' 0v1.i12r6.76a6i.qcvv1.t8he9.b22r1]
+  glob-http+['https://dydx-v4-urbit.s3.amazonaws.com/dydx-v4-urbit.glob' 0vp013l.4kvuj.hb1v1.umidv.kg4t1]
 ==
