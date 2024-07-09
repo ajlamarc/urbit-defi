@@ -3,9 +3,11 @@
 > [!NOTE]  
 > The Urbit dYdX v4 self-hosted frontend is **not available in certain locations (at the time of writing this, at least US and Canada)**. Attempting to access the self-hosted frontend in these locations will result in the frontend failing to fully connect. See the official dYdX Terms and Conditions and use at your own risk.
 
+Described below is the easiest way to get on Urbit, using [Red Horizon](https://redhorizon.com/), an Urbit partner.  If you already have access to an Urbit and want access there instead, follow the standard Urbit app installation process, using the install path `~larryx-woldyr/dydx-v4`.
+
 ## Get a complimentary Urbit and boot dYdX v4
 
-- Visit [here](https://redhorizon.com/join/e5cdcd14-446c-4a89-9151-d3d1811fd03c) and enter an email and the OTP.
+- Visit the dYdX Red Horizon fleet [here](https://redhorizon.com/join/e5cdcd14-446c-4a89-9151-d3d1811fd03c) and enter an email and the OTP.
 - Select an Urbit ID from the available options and click continue.
 - Copy the access key and click "Launch Urbit".  Paste in the access key at the login prompt.
 - You should automatically be directed to the dYdX v4 frontend.
