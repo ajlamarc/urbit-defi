@@ -7,7 +7,7 @@ Described below is the easiest way to get on Urbit, using [Red Horizon](https://
 
 ## Get a complimentary Urbit and boot dYdX v4
 
-- Visit the dYdX Red Horizon fleet [here](https://redhorizon.com/join/e5cdcd14-446c-4a89-9151-d3d1811fd03c) and enter an email and the OTP.
+- Visit the dYdX Red Horizon fleet [here](https://redhorizon.com/join/e5cdcd14-446c-4a89-9151-d3d1811fd03c), enter an email for a new account, and login via the OTP.
 - Select an Urbit ID from the available options and click continue.
 - Copy the access key and click "Launch Urbit".  Paste in the access key at the login prompt.
 - You should automatically be directed to the dYdX v4 frontend.
