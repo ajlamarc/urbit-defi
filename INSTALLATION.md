@@ -1,6 +1,9 @@
-## Install the dYdX v4 frontend
+# Installation
 
-Note that the dYdX v4 self-hosted frontend is **not available in certain locations (at the time of writing this, at least US and Canada)**. Attempting to access the self-hosted frontend in these locations will result in the frontend failing to fully connect. See the official dYdX Terms and Conditions and use at your own risk.
+> [!NOTE]  
+> The Urbit dYdX v4 self-hosted frontend is **not available in certain locations (at the time of writing this, at least US and Canada)**. Attempting to access the self-hosted frontend in these locations will result in the frontend failing to fully connect. See the official dYdX Terms and Conditions and use at your own risk.
+
+## Get a complimentary Urbit and boot dYdX v4
 
 - Visit [here](https://redhorizon.com/join/e5cdcd14-446c-4a89-9151-d3d1811fd03c) and enter an email and the OTP.
 - Select an Urbit ID from the available options and click continue.
